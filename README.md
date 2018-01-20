@@ -1,2 +1,2 @@
 # Alexa-HelloWorld
-A simple Hello World sample for Amazon's Alexa skill set
+A simple 'Hello World' skill set for Amazon's Alexa.
