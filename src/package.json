@@ -1,0 +1,22 @@
+{
+  "name": "alexa-helloworld",
+  "version": "1.0.0",
+  "description": "A simple Hello World sample for Amazon's Alexa skill set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KylePhoneDial/Alexa-HelloWorld.git"
+  },
+  "author": "Kyle Brantley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KylePhoneDial/Alexa-HelloWorld/issues"
+  },
+  "homepage": "https://github.com/KylePhoneDial/Alexa-HelloWorld#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
